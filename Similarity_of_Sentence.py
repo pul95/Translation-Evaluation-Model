@@ -1,6 +1,6 @@
 import numpy as np
 
-
+#Class FastVector directly derived from https://github.com/Babylonpartners/fastText_multilingual
 class FastVector:
     """
     Minimal wrapper for fastvector embeddings.
